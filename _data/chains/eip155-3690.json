@@ -16,11 +16,11 @@
   "shortName": "bttx",
   "chainId": 3690,
   "networkId": 3690,
-  "icon": "ethereum",
+  "icon": "bittex",
   "explorers": [{
     "name": "bittexscan",
     "url": "https://bittexscan.com",
-    "icon": "etherscan",
+    "icon": "bittex",
     "standard": "EIP3091"
   }]
 }
